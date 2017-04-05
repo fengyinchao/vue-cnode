@@ -13,11 +13,11 @@
         </div>
         <div class="item">
           <h1>关于源码</h1>
-          <p>请点击<a href="https://github.com/fengyinchao/cnode-vue.git" title="">这里</a>查看源码</p>
+          <p>请点击<a href="https://github.com/fengyinchao/v-cnode.git" title="">这里</a>查看源码</p>
         </div>
         <div class="item">
           <h1>关于反馈</h1>
-          <p>请点击<a href="https://github.com/fengyinchao/cnode-vue/pulls" title="">这里</a>进行反馈</p>
+          <p>请点击<a href="https://github.com/fengyinchao/v-cnode/pulls" title="">这里</a>进行反馈</p>
         </div>
         <div class="item">
           <h1>关于版本</h1>
