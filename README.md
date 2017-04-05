@@ -29,4 +29,4 @@
 ## 4.5
 - [x] 消息页、发表页正式完成，’我的‘页面完成60%
 - [x] 头部和底部组件调整，修复4.4滚动加载bug(跳往详情页未移除scroll事件)
-- [x] 首次将项目部署在github上，可直接通过https://fengyinchao.github.io/v-cnode/home访问
+- [x] 首次将项目部署在github上，可直接访问https://fengyinchao.github.io/v-cnode/home
