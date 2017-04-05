@@ -5,7 +5,7 @@
  */
 <template>
     <div class="container">
-      <v-header :title='title' :showMenuButton='false' :showBackButton='true'></v-header>
+      <v-header :title='title' :showMenuButton='false' :showBackButton='true' :showPostButton='false'></v-header>
       <div class="detail" v-if='!showLoading'>
           <div class="top1">
             <img :src="article&&article.author.avatar_url" alt="">
@@ -27,9 +27,6 @@
           </div>
           <div class="content markdown-body" v-html='article&&article.content'>
           </div>
-<!--           <div class="comment_fengexian">
-            评论
-          </div> -->
           <div class="comment" v-if='article.replies&&article.replies.length'>
             <ul>
               <li v-for='comment in article.replies'>
@@ -37,12 +34,6 @@
               </li>
             </ul>
           </div>
-<!--           <div v-else class="no_comment">
-              暂无评论
-          </div> -->
-<!--           <div class="comment_fengexian">
-              我要评论
-          </div> -->
           <div v-if='userInfo.userId' class="go_comment">
             <textarea v-model='go_comment' class="gc_content" placeholder="回复支持Markdown语法,请注意标记代码"></textarea>
             <div class="button_group">
@@ -63,9 +54,11 @@
     import vHeader from '../components/common/header.vue'
     import vLoading from '../components/common/loading.vue'
     import vCommentItem from '../components/common/comment_item.vue'
-    import {mapGetters} from 'vuex'
+    import { mapGetters } from 'vuex'
+    import Utils from '../assets/js/utils.js'
+    import $ from 'jquery'
     export default{
-        name:'',
+        name:'detail',
         props: {
             // some:String,
         },
@@ -84,9 +77,8 @@
                 content:this.go_comment,
                 reply_id:''
               }
-              console.log('lai')
               Axios.post('https://cnodejs.org/api/v1/topic/'+this.article.id+'/replies',comment)
-                .then(result=>alert('success'))
+                .then(result=>console.log(result))
             },
             cancleComment(){
               this.go_comment=''
@@ -103,20 +95,19 @@
           vCommentItem,
         },
         mounted(){
-          // console.log(this.$route.params.id);
-          var that=this;
           if(this.$route.params.id){
-              Axios.get('https://cnodejs.org/api/v1/topic/'+this.$route.params.id).then(function(article ){
-                    that.article=article.data.data;
-                    that.showLoading=!that.showLoading;
-                    // console.log(that.article);
-                })
+              Axios.get('https://cnodejs.org/api/v1/topic/'+this.$route.params.id)
+                  .then(article=>{
+                      this.article=article.data.data;
+                      this.showLoading=!this.showLoading;
+                  })
           }
-
-
+          $(window).on('scroll',Utils.throttle(Utils.showOrHideScroll.bind(this),500));
         },
-        watch:{
-          // '$route':'updateIndex'
+        beforeRouteLeave(to,from,next){
+          this.$backToTop().hide();
+          $(window).off('scroll');
+          next();
         }
     }
 </script>
@@ -164,7 +155,6 @@
             flex:3;
             display: flex;
             align-items: center;
-            /*border-bottom: 1px solid #ccc;*/
           }
           .a_detail{
             color:#83BD50;
@@ -179,46 +169,7 @@
         .content{
           padding:px2rem(30);
         }
-        .comment_fengexian{
-          height:px2rem(100);
-          border-top: 1px solid #ccc;
-          /*display: inline-block;*/
-          line-height: px2rem(100);
-          padding:0 px2rem(30) px2rem(30);
-          font-size: 22px;
-          font-weight: bold;
-          /*position: relative;*/
-          text-align: center;
-         /* &:before,&:after{
-            content:'';
-            position:absolute;
-            top:px2rem(50);
-            width:px2rem(200);
-            border-bottom:px2rem(1) solid black;
-          };
-          &:before{
-            left:px2rem(40);
-          };
-          &:after{
-            right:px2rem(40);
-          };*/
-        }
-        .no_comment{
-          width:50%;
-          /*margin:px2rem(20) auto;*/
-          padding-left: px2rem(30);
-          height:px2rem(60);
-          line-height: px2rem(60);
-          /*text-align: center;*/
-          /*background-color: $main-tone;*/
-          /*color:#fff;*/
-          letter-spacing: px2rem(10);
-          border-radius: 3%;
-        }
         .go_comment{
-          /*margin-top: px2rem(100);*/
-          /*padding:px2rem(30);*/
-          /*background-color: red;*/
           textarea{
             width:90%;
             margin:0 auto;
@@ -229,7 +180,6 @@
           }
           .button_group{
             display: flex;
-            /*padding:px2rem(30);*/
             button{
               flex:1;
               border:none;

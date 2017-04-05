@@ -49,12 +49,12 @@
         },
         methods:{
             doGood(){
-
-              let comment_id=this.comment.id;
-               console.log(this.comment);
-              Axios.post('https://cnodejs.org/api/v1/reply/'+comment_id+'/ups',{
-                accesstoken:this.userInfo.token
-              }).then(result=>alert('success'))
+                alert('正在开发。。')
+              // let comment_id=this.comment.id;
+              //  console.log(this.comment);
+              // Axios.post('https://cnodejs.org/api/v1/reply/'+comment_id+'/ups',{
+              //   accesstoken:this.userInfo.token
+              // }).then(result=>alert('success'))
             }
         },
         components:{

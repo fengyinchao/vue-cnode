@@ -5,7 +5,7 @@
  */
 <template>
     <div class="item">
-        <router-link :to="{name:'Detail',params: { id: item.id }}" tag='div' class="top">
+        <router-link :to="{name:'Topic',params: { id: item.id }}" tag='div' class="top">
           <div class="t_left">
             <div class="tl_top">
               <img :src="item.author.avatar_url" alt="">

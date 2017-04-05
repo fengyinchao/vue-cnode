@@ -6,12 +6,12 @@
 <template>
     <div class="vfooter">
         <ul>
-          <li class="item">
-            <router-link :to="{path:'/home'}">
+<!--           <li class="item">
+            <router-link :to="{ path: 'home', query: { type: 'all' }}">
               <i class="cnode-iconfont">&#xe7a4;</i>
               <span>主页</span>
             </router-link>
-          </li>
+          </li> -->
           <li class="item">
             <router-link :to="{path:'/post'}">
               <i class="cnode-iconfont">&#xe61f;</i>
@@ -79,6 +79,9 @@
               line-height: px2rem(40);
               text-align: center;
             }
+          }
+          .cnode-active{
+            color:green;
           }
         }
       }

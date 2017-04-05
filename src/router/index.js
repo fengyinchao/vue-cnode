@@ -6,7 +6,7 @@ import Post from '@/pages/Post'
 import Message from '@/pages/Message'
 import Login from '@/pages/Login'
 import Me from '@/pages/Me'
-import Detail from '@/pages/Detail'
+import Topic from '@/pages/Topic'
 import About from '@/pages/About'
 
 Vue.use(Router)
@@ -14,6 +14,7 @@ Vue.use(Router)
 export default new Router({
   mode:'history',
   base:'v-cnode',
+  linkActiveClass:'cnode-active',
   routes: [
     {
       path: '/',
@@ -73,8 +74,8 @@ export default new Router({
     },
     {
       path:'/topic/:id',
-      name:'Detail',
-      component:Detail,
+      name:'Topic',
+      component:Topic,
       meta:{
         requireAuth:false
       }

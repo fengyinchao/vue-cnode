@@ -5,25 +5,25 @@
  */
 <template>
     <div class="about">
-    <v-header :title='title' :showMenuButton='false' :showPostButton='false' :showBackButton='true'></v-header>
-    <div class="about-detail">
-      <div class="item">
-        <h1>关于项目</h1>
-        <p>该项目基于Cnode.js的API，采用VUE全家桶重写的webapp</p>
+      <v-header :title='title' :showMenuButton='false' :showPostButton='false' :showBackButton='true'></v-header>
+      <div class="about-detail">
+        <div class="item">
+          <h1>关于项目</h1>
+          <p>该项目基于Cnode.js的API，采用VUE全家桶重写的webapp</p>
+        </div>
+        <div class="item">
+          <h1>关于源码</h1>
+          <p>请点击<a href="https://github.com/fengyinchao/cnode-vue.git" title="">这里</a>查看源码</p>
+        </div>
+        <div class="item">
+          <h1>关于反馈</h1>
+          <p>请点击<a href="https://github.com/fengyinchao/cnode-vue/pulls" title="">这里</a>进行反馈</p>
+        </div>
+        <div class="item">
+          <h1>关于版本</h1>
+          <p>当前版本：V1.0</p>
+        </div>
       </div>
-      <div class="item">
-        <h1>关于源码</h1>
-        <p>请点击<a href="https://github.com/fengyinchao/cnode-vue.git" title="">这里</a>查看源码</p>
-      </div>
-      <div class="item">
-        <h1>关于反馈</h1>
-        <p>请点击<a href="https://github.com/fengyinchao/cnode-vue/pulls" title="">这里</a>进行反馈</p>
-      </div>
-      <div class="item">
-        <h1>关于版本</h1>
-        <p>当前版本：V1.0</p>
-      </div>
-    </div>
     </div>
 </template>
 
@@ -58,7 +58,6 @@
       left:0;
       right:0;
       color:black;
-      /*background-color: #EEEEEE;*/
       .item{
         height:px2rem(150);
         border-bottom: 1px solid #ccc;

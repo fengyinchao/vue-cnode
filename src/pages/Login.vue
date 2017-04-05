@@ -5,7 +5,7 @@
  */
 <template>
     <div class="login">
-      <v-header :title='title' :showMenuButton='false' :showBackButton='true'></v-header>
+      <v-header :title='title' :showMenuButton='false' :showBackButton='true' :showPostButton='false'></v-header>
       <div class="login-detail">
           <div class="login1">
             <input placeholder="Access Token" v-model='accesstoken'/>
@@ -43,7 +43,7 @@
                     accesstoken:this.accesstoken
                 })
                 .then(data=>{
-                  var user={
+                  let user={
                       loginname: data.data.loginname,
                       avatar_url: data.data.avatar_url,
                       userId: data.data.id,

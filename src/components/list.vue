@@ -15,18 +15,14 @@
 
 <script>
     import vListItem from './common/list_item.vue';
-
     export default{
         name:'list',
         props: {
-            // some:String,
-            updateHeaderTitle:Function,
             array:Array,
         },
         data(){
             return{
               showLoading:true,
-              all:[]
             }
         },
         methods:{
@@ -35,7 +31,7 @@
 
         },
         mounted(){
-            console.log('mounted');
+
         },
         components:{
           vListItem,

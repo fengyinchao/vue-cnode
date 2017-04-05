@@ -44,13 +44,6 @@
       }
     },
     methods:{
-      showOrHideMask(show){
-        // debugger;
-        this.show=show;
-      },
-      hide(){
-        this.show=!this.show;
-      },
       getUserFromSession(){
         let user=window.window.sessionStorage.user;
         return user&&JSON.parse(user);
@@ -60,7 +53,7 @@
         userInfo:'getUserInfo'
     }),
     mounted(){
-        var loginname=this.userInfo.loginname;
+        let loginname=this.userInfo.loginname;
         if(loginname){
           Axios.get('https://cnodejs.org/api/v1/user/'+loginname)
               .then(userDetail=>{

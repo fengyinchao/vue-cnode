@@ -1,6 +1,6 @@
 <template>
   <div class="post">
-    <v-header :title='title' :showMenuButton='false' :showBackButton='true'></v-header>
+    <v-header :title='title' :showMenuButton='false' :showBackButton='true' :showPostButton='false'></v-header>
     <div class="content">
       <input required class="title" placeholder="标题...（不少于十个字）"  v-model='article.title'/>
       <select class="select" v-model='article.tab'>
@@ -20,7 +20,7 @@
   import Axios from 'axios';
   import { mapGetters } from 'vuex';
   export default {
-    name: 'Post',
+    name: 'post',
     data () {
       return {
         show:false,
@@ -38,21 +38,21 @@
       })
     },
     methods:{
-      showOrHideMask(show){
-        // debugger;
-        this.show=show;
-      },
-      hide(){
-        this.show=!this.show;
-      },
       handleSubmit(){
         let article={
           ...this.article,
           accesstoken:this.user.token
         }
-        console.log(article)
         if(article.title.length<11){
-          alert('标题字数没超过十个字！');
+          this.$alerTips('标题字数没超过十个字！');
+          return;
+        }
+        if(article.tab==''){
+          this.$alerTips('请选择文章类型！');
+          return;
+        }
+        if (article.content=='') {
+          this.$alerTips('文章内容不能为空！');
           return;
         }
         if(article.accesstoken){
@@ -85,6 +85,9 @@
     color:black;
     display: flex;
     flex-direction: column;
+    .title{
+      margin-top:px2rem(40);
+    }
     .title,.select{
       display:flex;
       align-items: center;

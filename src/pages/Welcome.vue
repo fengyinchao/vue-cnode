@@ -1,7 +1,6 @@
 <template>
   <div class="hello">
-      <!-- <img src="../assets/imgs/loading.gif" alt=""> -->
-      <!-- <img src="../assets/imgs/cnode.jpg" alt=""> -->
+
   </div>
 </template>
 
@@ -14,29 +13,29 @@
 
       }
     },
-    mounted(){
-      var s = 'Cnode-Vue';
-      var con = $('.hello');
-      var index = 0;
-      var length = s.length;
-      var tId = null;
-      var that=this;
-      function start(){
+    methods:{
+      startAnimate:function(title){//不能定义成箭头函数，否则this传不进来
+        let s = title;
+        let con = $('.hello');
+        let index = 0;
+        let length = s.length;
+        let tId = null;
         con.text('');
-        tId=setInterval(function(){
+        tId=setInterval(()=>{
           con.append(s.charAt(index));
-          // console.log(index)
           if(index++ === length){
               clearInterval(tId);
               setTimeout(()=>{
-                that.$router.push({
-                  path:'/home'
+                this.$router.push({
+                  path:'home'
                 })
               },500)
           }
         },200);
       }
-      start();
+    },
+    mounted(){
+      this.startAnimate('Cnode-Vue');
     }
   }
 </script>
@@ -50,7 +49,6 @@
     font-size:px2rem(70);
     font-weight:bold;
     font-style: italic;
-    /*letter-spacing: 2px;*/
     align-items: center;
     position: fixed;
     width:100%;
