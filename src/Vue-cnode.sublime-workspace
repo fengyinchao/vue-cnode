@@ -1,0 +1,1600 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"map",
+				"mapGetters"
+			],
+			[
+				"set",
+				"setUserInfo"
+			],
+			[
+				"A",
+				"Axios"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border-image",
+				"border-image-width"
+			],
+			[
+				"trans",
+				"translateX()"
+			],
+			[
+				"me-header",
+				"me-header-bgr"
+			],
+			[
+				"show",
+				"showBackButton"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"showMenu",
+				"showMenuButton"
+			],
+			[
+				"font",
+				"font-style: 〔property〕"
+			],
+			[
+				"content",
+				"content-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"static",
+				"staticPath〔variable〕"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"styles",
+				"styles/"
+			],
+			[
+				"sho",
+				"show_parent"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"tran",
+				"translateX()"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"get",
+				"getElementById〔function〕"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"item",
+				"item-img"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"if",
+				"iframe\tTag"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"anima",
+				"animation-delay"
+			],
+			[
+				"bas",
+				"baseline"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"tex",
+				"text-align: 〔property〕"
+			],
+			[
+				"word",
+				"word-spacing: 〔property〕"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"ab",
+				"absolute〔value〕"
+			],
+			[
+				"is",
+				"isActive"
+			],
+			[
+				"process",
+				"process.env"
+			],
+			[
+				"ho",
+				"hotnews"
+			],
+			[
+				"Vue",
+				"VueRouter"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"imp",
+				"import〔keyword〕"
+			],
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"inline",
+				"inline-block〔value〕"
+			],
+			[
+				"list-s",
+				"list-style: 〔property〕"
+			],
+			[
+				"Vu",
+				"VueRouter"
+			],
+			[
+				"reduce",
+				"reduceRight"
+			],
+			[
+				"nativeReduce",
+				"nativeReduceRight"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"nativeF",
+				"nativeForEach"
+			],
+			[
+				"Fun",
+				"FunProto〔variable〕"
+			],
+			[
+				"Array",
+				"ArrayProto〔variable〕"
+			],
+			[
+				"Obj",
+				"ObjProto〔variable〕"
+			],
+			[
+				"Ob",
+				"ObjProto"
+			],
+			[
+				"sp",
+				"spine.js"
+			],
+			[
+				"app",
+				"appendChild〔function〕"
+			],
+			[
+				"crea",
+				"createElement〔function〕"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"num",
+				"num_str〔variable〕"
+			],
+			[
+				"时间：",
+				"时间：2016-9-15"
+			],
+			[
+				"clear",
+				"clearTimeout〔function〕"
+			],
+			[
+				"suc",
+				"sucFun"
+			],
+			[
+				"query",
+				"queryObj〔variable〕"
+			],
+			[
+				"index_",
+				"index_query"
+			],
+			[
+				"url",
+				"url_query〔variable〕"
+			],
+			[
+				"ind",
+				"index_hash〔variable〕"
+			],
+			[
+				"to",
+				"toUpperCase〔function〕"
+			],
+			[
+				"reg",
+				"regstr"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"reset",
+				"resetPictureList"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"tag",
+				"tag_name"
+			],
+			[
+				"Pic",
+				"PictureDetail"
+			],
+			[
+				"picture",
+				"pictureList"
+			],
+			[
+				"pic",
+				"pictureList"
+			],
+			[
+				"C",
+				"Ceil"
+			],
+			[
+				"ba",
+				"backgroundColor:'#00ff00"
+			],
+			[
+				"wind",
+				"window"
+			],
+			[
+				"lef",
+				"leftIconStyle"
+			],
+			[
+				"title",
+				"titleStyle"
+			],
+			[
+				"row",
+				"rowDate"
+			],
+			[
+				"na",
+				"navigator"
+			],
+			[
+				"navi",
+				"navigator〔variable〕"
+			],
+			[
+				"nav",
+				"navigator〔variable〕"
+			],
+			[
+				"bo",
+				"borderBottomColor"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bac",
+				"backgroundColor"
+			],
+			[
+				"bind",
+				"bindActionCreator"
+			],
+			[
+				"typ",
+				"type=\"text"
+			],
+			[
+				"React",
+				"ReactDom"
+			],
+			[
+				"Com",
+				"Component"
+			],
+			[
+				"spec",
+				"specialImg"
+			],
+			[
+				"select",
+				"selectTo1〔variable〕"
+			],
+			[
+				"all",
+				"allCards_b"
+			],
+			[
+				"sel",
+				"selectTo1〔variable〕"
+			],
+			[
+				"pla",
+				"player1imgs"
+			],
+			[
+				"plar",
+				"player2StopButton"
+			],
+			[
+				"player",
+				"player1StopButton"
+			],
+			[
+				"begin",
+				"beginButton〔variable〕"
+			],
+			[
+				"gets",
+				"getSum"
+			],
+			[
+				"sele",
+				"selectTo1〔variable〕"
+			],
+			[
+				"build",
+				"build/"
+			],
+			[
+				"live",
+				"livereload〔variable〕"
+			],
+			[
+				"config",
+				"config_map:configMap});最终使得spa"
+			],
+			[
+				"people",
+				"people_db"
+			],
+			[
+				"返回",
+				"返回一个含1个方法的对象。initModule"
+			],
+			[
+				"onTap",
+				"onTapToggle"
+			],
+			[
+				"conf",
+				"configModule"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"borderc",
+				"border-color"
+			],
+			[
+				"configm",
+				"configModule〔function〕"
+			],
+			[
+				"onLog",
+				"onLogout〔variable〕"
+			],
+			[
+				"sub",
+				"subscribe"
+			],
+			[
+				"onL",
+				"onListchange〔variable〕"
+			],
+			[
+				"input",
+				"input_map〔argument〕"
+			],
+			[
+				"append",
+				"appendTo\t.appendTo()"
+			],
+			[
+				"prop",
+				"prop\t.prop() - single"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"class",
+				"class_list〔variable〕"
+			],
+			[
+				"drag_",
+				"drag_target"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/routers.js",
+			"settings":
+			{
+				"buffer_size": 1827,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/components/menu.vue",
+			"settings":
+			{
+				"buffer_size": 2211,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/views/list.vue",
+			"settings":
+			{
+				"buffer_size": 7419,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pi",
+		"selected_items":
+		[
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"q",
+				"Git: Quick Commit (current file)"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git branch",
+				"Git: Track Remote Branch"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add All"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"gic",
+				"Git: Commit"
+			],
+			[
+				"gtr",
+				"Git: Track Remote Branch"
+			],
+			[
+				"gb",
+				"Git: New Branch"
+			],
+			[
+				"gt",
+				"Git: Track Remote Branch"
+			],
+			[
+				"gpc",
+				"Git: Push Current Branch"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"g",
+				"Git: Commit"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"a",
+				"Git: Add All"
+			],
+			[
+				"gp",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"preferences:mar",
+				"Preferences: MarkdownEditing Settings – User"
+			],
+			[
+				"i",
+				"Snippet: input - text"
+			],
+			[
+				"r",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: un",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				" set s",
+				"Set Syntax: Sass"
+			],
+			[
+				"set ",
+				"Set Syntax: CSS"
+			],
+			[
+				"se",
+				"Set Syntax: Sass"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"set css",
+				"Set Syntax: CSS"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"emme",
+				"Toggle Comment"
+			],
+			[
+				"tag",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/views/topic.vue",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/views/login.vue",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/views/message.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/pages/Login.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/list.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/README.md",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/main.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/App.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/pages/Welcome.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/pages/Post.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/pages/Message.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/pages/Me.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/pages/Home.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/pages/Detail.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/pages/About.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/sidebar.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/footer.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/header.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/loading.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/router/index.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/index.html",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/assets/styles/common.scss",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/list_item.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/config/index.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/dist/index.html",
+		"/C/Users/Administrator/Desktop/cnode-vue/2.html",
+		"/C/Users/Administrator/Desktop/cnode-vue/1.html",
+		"/C/Users/Administrator/Desktop/cnode-vue/1.css",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/cssrem/cssrem.sublime-settings",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/User/cssrem.sublime-settings",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/detail.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/dev_notes.md",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/assets/styles/util.scss",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/User/SublimeTmpl/templates/vue.tmpl",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/pages/Hello.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/build/webpack.base.conf.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/.gitignore",
+		"/C/Users/Administrator/Desktop/cnode-vue/build/dev-server.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/build/build.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/build/utils.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/build/webpack.prod.conf.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/config/prod.env.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/assets/styles/reset.css",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/assets/js/flexible.js",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/assets/styles/iconfont/iconfont.css",
+		"/C/Users/Administrator/Desktop/vue-music/src/assets/style/global.scss",
+		"/C/Users/Administrator/Desktop/vue-music/src/assets/style/_util.scss",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/v",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/q.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/1.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/2.vue",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/SublimeTmpl/Main.sublime-menu",
+		"/C/Users/Administrator/Desktop/cnode-vue/text.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/cnode-vue.sublime-project",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/User/SublimeTmpl.sublime-settings",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/1.vue",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/SublimeTmpl/templates/html.tmpl",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/SublimeTmpl/templates/css.tmpl",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/SublimeTmpl/SublimeTmpl.sublime-settings",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/SublimeTmpl/Default.sublime-commands",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/SublimeTmpl/Default (Windows).sublime-keymap",
+		"/C/Users/Administrator/Desktop/vue/vue.vue",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/SublimeTmpl/templates/vue.tmpl",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/Footer.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/common/Header.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/npmrc",
+		"/C/Users/Administrator/Desktop/cnode-vue/build/vue-loader.conf.js",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/views/index.vue",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/routers.js",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/components/loading.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/Home.vue",
+		"/C/Users/Administrator/Desktop/cnode-vue/package.json",
+		"/C/Users/Administrator/Desktop/cnode-vue/src/components/Hello.vue",
+		"/C/Users/Administrator/Desktop/vue-cnode-master/vue-cnode-master/src/main.js",
+		"/C/Users/Administrator/Desktop/vue-cnode-master/vue-cnode-master/src/pages/index/index.vue",
+		"/C/Users/Administrator/Desktop/vue-cnode-master/vue-cnode-master/webpack.config.js",
+		"/C/Users/Administrator/Desktop/vue-cnode-master/vue-cnode-master/src/config/routes.js",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/views/list.vue",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/main.js",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/components/menu.vue",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/libs/flexible.js",
+		"/E/Local_Repository/find-happy/test.html",
+		"/E/Local_Repository/find-happy/src/components/hot/shehui.vue",
+		"/E/Local_Repository/find-happy/src/store/modules/hot.js",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/libs/utils.js",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/assets/scss/header.scss",
+		"/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/components/header.vue",
+		"/C/Users/Administrator/Desktop/vue-music/index.html",
+		"/C/Users/Administrator/Desktop/vue-music/src/components/Home/home_content.vue",
+		"/C/Users/Administrator/Desktop/vue-music/src/components/Home/slider.vue",
+		"/C/Users/Administrator/Desktop/vue-music/test.html",
+		"/C/Users/Administrator/Desktop/vue-music/src/components/Home/index.vue",
+		"/C/Users/Administrator/Desktop/vue-music/src/components/Home/header.vue",
+		"/C/Users/Administrator/Desktop/vue-music/static/flexible.js",
+		"/C/Users/Administrator/Desktop/vue-music/src/assets/style/footer.scss",
+		"/C/Users/Administrator/Desktop/vue-music/music.sublime-project",
+		"/C/Users/Administrator/Desktop/vue-music/.git",
+		"/C/Users/Administrator/Desktop/vue-music/src/App.vue",
+		"/C/Users/Administrator/Desktop/vue-music/q.js",
+		"/C/Users/Administrator/Desktop/vue-music/README.md",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/User/Markdown.sublime-settings",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/MarkdownEditing/README.md",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/MarkdownEditing/Bold and Italic Markers.tmPreferences",
+		"/C/Users/Administrator/Desktop/vue-music/src/main.js",
+		"/C/Users/Administrator/Desktop/vue-music/src/components/Global/footer.vue",
+		"/C/Users/Administrator/Desktop/vue-music/src/router/index.js",
+		"/C/Users/Administrator/Desktop/vue-music/src/assets/style/_icon.scss",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/D/Sublime Text3/Sublime Text Build 3083/Data/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/Users/Administrator/Desktop/vue-music/package.json",
+		"/C/Users/Administrator/Desktop/vue-music/build/webpack.base.conf.js",
+		"/C/Users/Administrator/Desktop/vue-music/build/vue-loader.conf.js",
+		"/C/Users/Administrator/Desktop/vue-music-master/vue-music-master/SourcsCode/package.json",
+		"/C/Users/Administrator/Desktop/vue-music-master/vue-music-master/SourcsCode/src/App.vue",
+		"/C/Users/Administrator/Desktop/vue-music-master/vue-music-master/SourcsCode/src/main.js",
+		"/C/Users/Administrator/Desktop/vue-music/src/pages/home.vue",
+		"/C/Users/Administrator/Desktop/vue-music/src/components/Recommend.vue",
+		"/C/Users/Administrator/Desktop/vue-music/src/store/index.js",
+		"/C/Users/Administrator/Desktop/vue-music/api/index.js",
+		"/C/Users/Administrator/Desktop/vue-music/src/components/Play.vue",
+		"/C/Users/Administrator/Desktop/vue-music/src/components/Rank.vue",
+		"/C/Users/Administrator/Desktop/vue-music/src/components/Sheet.vue",
+		"/C/Users/Administrator/Desktop/vue-music/src/pages/swiper.vue",
+		"/C/Users/Administrator/Desktop/vue-music/.editorconfig"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\Users\\Administrator\\Desktop\\vue-music\\src\\components\\Home\\home_content.vue",
+			"<project>",
+			"E:\\Awesome"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"currentData",
+			"addReply",
+			"reply_content",
+			"topic-content",
+			"markdown-body",
+			"getters",
+			"(\\d+)px",
+			"(\\d+)",
+			"(\\d+)px",
+			"(\\d+px)",
+			"'\\d+'",
+			"\\d+",
+			"/\\d+/",
+			"/[\\d]+/",
+			"/[\\d]+px/",
+			"px",
+			"nextTick",
+			"message-count",
+			"rem",
+			"img",
+			"$",
+			"image",
+			"jquery",
+			"http",
+			"jquery",
+			"semver",
+			"load",
+			"shehui.vue",
+			"client-entry",
+			"type",
+			"semi",
+			"qs",
+			"any",
+			"wrapper",
+			"create",
+			"trigger(\"create\")",
+			"trigger('create')",
+			"fetch",
+			"__super__",
+			"desktop",
+			"id",
+			"inherits",
+			"Backbone.ajax = $.ajax;",
+			"clickTab",
+			"changeTab",
+			"settings",
+			"_.functions",
+			"mixin",
+			"wrapper.prototype",
+			" wrapper.prototype",
+			"back",
+			"下拉",
+			"DownManager",
+			"Sider",
+			"leftIconStyle",
+			"listView",
+			"h",
+			"list",
+			"flexDierection",
+			"listView",
+			"_onEndReach",
+			"listView",
+			"_onScroll",
+			"listView",
+			"container",
+			"w",
+			"Const",
+			"listView",
+			"Common",
+			"Picture",
+			"class",
+			"CLASS",
+			"Class",
+			"news",
+			"News",
+			"Joke",
+			"joke",
+			"JOKE",
+			"Joke",
+			"News",
+			"news",
+			"NEWS",
+			"JOKE",
+			"Joke",
+			"joke",
+			"home",
+			"Home",
+			"HOME",
+			"Home",
+			"home",
+			"Home",
+			"HOME",
+			"home",
+			"NEWS",
+			"News",
+			"news",
+			"page",
+			"JOKE",
+			"Joke",
+			"joke",
+			"NEWS",
+			"News",
+			"news",
+			"joke",
+			"JOKE",
+			"Joke",
+			"joke",
+			"JOKE",
+			"Joke",
+			"JOKE",
+			"joke",
+			"alert",
+			"rowDat",
+			"listView",
+			"container",
+			"home",
+			"limit",
+			"tag",
+			"Home",
+			"RefreshControl",
+			"rowDate",
+			"rowDate.file.key",
+			"../common/utils",
+			"Home",
+			".const",
+			"Common",
+			"tag",
+			"changeTab"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"px2rem(200)",
+			"px2rem(25)",
+			"px2rem(40)",
+			"px2rem(200)",
+			"px2rem(1)",
+			"px2rem(25)",
+			"px2rem(80)",
+			"px2rem(100)",
+			"px2rem(20)",
+			"px2rem(30)",
+			"px2rem(100)",
+			"px2rem(200)",
+			"px2rem(25)",
+			"px2rem(20)",
+			"px2rem(200)",
+			"px2rem(1)",
+			"px2rem(25)",
+			"px2rem(80)",
+			"px2rem(200)",
+			"px2rem(100)",
+			"px2rem(200)",
+			"px2rem",
+			"Const",
+			"picture",
+			"PICTURE",
+			"Picture",
+			"picture",
+			"Picture",
+			"gossip",
+			"Gossip",
+			"gossip",
+			"GOSSIP",
+			"Gossip",
+			"gossip",
+			"picture",
+			"Picture",
+			"PICTURE",
+			"Picture",
+			"picture",
+			"Picture",
+			"PICTURE",
+			"picture",
+			"Weather",
+			"weather",
+			"city",
+			"WEATHER",
+			"Weather",
+			"weather",
+			"WEATHER",
+			"Weather",
+			"weather",
+			"news",
+			"News",
+			"news",
+			"NEWS",
+			"News",
+			"NEWS",
+			"news",
+			"Joke"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/routers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								723,
+								723
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										722,
+										723
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										599,
+										600
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "ada69e7f",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/components/menu.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								979,
+								979
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bs_sintax": "vue",
+							"buffer_scroll_name": "dc947d9d",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"spell_check": false,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Administrator/Desktop/Vue-cnodejs-master/src/views/list.vue",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 7419,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6207,
+								6207
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										6332,
+										6333
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										6206,
+										6207
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bs_sintax": "vue",
+							"buffer_scroll_name": "1c5064a8",
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"spell_check": false,
+							"syntax": "Packages/Vue Syntax Highlight/vue.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2019.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 215.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "Packages/User/Node.sublime-build",
+	"project": "Vue-cnode.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Administrator\\Desktop\\test\\test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

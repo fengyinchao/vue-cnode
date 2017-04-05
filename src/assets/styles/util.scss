@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/**
+ *
+ * @authors FYC (fengyinchao.hust@gmail.com)
+ * @date    2017-03-30 19:43
+ */
+
+$font_size:75;
+@function px2rem($pixel) {
+    @return $pixel / $font_size+rem;
+}
+
+
+@mixin ellipsis {
+    text-overflow: ellipsis;
+    font-color:red;
+    overflow: hidden;
+}
+
+$main-tone:#03A9F4;
+$main-font-color:#fff;
+$main-bg-color:#fbfcfd;
