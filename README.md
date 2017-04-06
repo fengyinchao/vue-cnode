@@ -1,7 +1,9 @@
 ## 技术栈
 
 > cnode-vue project using vue2+vue-router2+vuex+flexible.js+fastclick.js
-
+## 效果预览
+![](./src/jdfw.gif)
+## 开发过程
 ## 3.30
 - [x] 基本布局，包括header,footer,sidebar
 - [x] 实现sidebar的弹出
