@@ -113,12 +113,13 @@
       flex-direction:column;
       position: absolute;
       top:px2rem(100);
+      z-index:-100;
       bottom:0;
       left:0;
       right:0;
       .top{
         background-color: $main-tone;
-        height:px2rem(100);
+        min-height:px2rem(100);
         line-height: px2rem(100);
         display: flex;
         span{
@@ -140,7 +141,10 @@
         }
       }
       .bottom{
+        /*background-color: red;*/
+        flex:1;
         .message{
+          /*padding-top: px2rem(100);*/
           .user{
             display: flex;
             height:px2rem(100);
@@ -153,15 +157,17 @@
           }
           .reply_content{
             min-height:px2rem(100);
-            line-height: px2rem(100);
+            padding-top: px2rem(30);
+            /*line-height: px2rem(100);*/
           }
           .topic-title{
+            padding-bottom: px2rem(30);
+            border-bottom: 1px solid #ccc;
             a{
               color:black;
             }
           }
         }
-        flex:1;
         padding:px2rem(30);
       }
     }
