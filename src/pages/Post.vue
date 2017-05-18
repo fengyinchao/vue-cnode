@@ -10,7 +10,7 @@
         <option value="job">招聘</option>
       </select>
       <textarea class="post_detail" placeholder="内容..." v-model='article.content'></textarea>
-      <button @click='handleSubmit'>提交</button>
+      <button type='click' @click='handleSubmit'>提交</button>
     </div>
   </div>
 </template>
@@ -43,6 +43,7 @@
           ...this.article,
           accesstoken:this.user.token
         }
+        debugger;
         if(article.title.length<11){
           this.$alerTips('标题字数没超过十个字！');
           return;
@@ -59,9 +60,11 @@
           Axios.post('https://cnodejs.org/api/v1/topics',{
             ...article
           }).then(()=>{
+            debugger;
+            this.$alerTips('发表成功啦！');
             this.$router.push({
               path:'/home'
-            })
+            },1990)
           })
           .catch(err=>alert(err))
         }

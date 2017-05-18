@@ -78,7 +78,18 @@
                 reply_id:''
               }
               Axios.post('https://cnodejs.org/api/v1/topic/'+this.article.id+'/replies',comment)
-                .then(result=>console.log(result))
+                .then(result=>{
+                  // console.log(this);
+                  // comment.reply_id=result.data.reply_id;
+                  // this.article.replies.push(comment);
+                  alert('评论成功！');
+                  this.go_comment='';
+                  console.log(result.data.reply_id)
+                  // this.$router.push({
+                  //   name:'Topic',
+                  //   params:this.$route.params.id
+                  // });
+                })
             },
             cancleComment(){
               this.go_comment=''
