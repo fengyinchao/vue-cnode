@@ -52,9 +52,7 @@
                   this.setUserInfo(user);
                   this.$alerTips('登陆成功！',{'background-color':'#03A9F4'})
                   setTimeout(
-                    ()=>this.$router.push({
-                    'path':'/home'
-                    }),1950)
+                    ()=>this.$router.go(-1),1950)
                 })
                 .catch(error=>this.$alerTips('Token格式有误！'))
             }
