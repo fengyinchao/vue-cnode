@@ -1,0 +1,10 @@
+@import 'util.scss';
+.backToTop{
+  position: fixed;
+  right:px2rem(20);
+  bottom:px2rem(200);
+  i.back{
+    font-size:px2rem(100);
+    color:$main-tone;
+  }
+}

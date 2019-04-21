@@ -1,0 +1,24 @@
+@import './util.scss';
+.tip{
+  position: absolute;
+  top:px2rem(20);
+  left:0;
+  right:0;
+  z-index:-1;
+  text-align:center;
+  background-color: rgba(255,0,0,0.5);
+  height: px2rem(80);
+  line-height:px2rem(80);
+  color:#fff;
+  &.showAlert{
+    animation: showAlert 2s;
+  };
+
+  @keyframes showAlert {
+    0 { transform:translateY(0); }
+    20% { transform:translateY(100%); }
+    50% { transform:translateY(100%); }
+    80% { transform:translateY(100%); }
+    100%{ transform:translateY(0); }
+  }
+}

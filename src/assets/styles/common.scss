@@ -1,0 +1,43 @@
+@import 'alerTips.scss';
+@import 'backToTop.scss';
+[data-dpr="1"] div {
+    font-size: 16px;
+    i{
+      font-size:20px;
+    }
+    #title {
+      font-weight:bold;
+    }
+
+}
+
+[data-dpr="2"] div {
+    font-size: 35px;
+    i{
+      font-size:40px;
+    }
+}
+
+[data-dpr="3"] div {
+    font-size: 50px;
+    i{
+      font-size:50px;
+    }
+    .tl_bottom{
+      font-style:bold;
+    }
+}
+body{
+  color:#fff;
+  font-weight:400;
+  background-image: linear-gradient(to right, #e6e9f0 0%, #eef1f5 100%);
+}
+.b_item{
+  color:#ccc;
+  // font-size:10px;
+  i{
+    color:#ccc;
+  }
+}
+
+

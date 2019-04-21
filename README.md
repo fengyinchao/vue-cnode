@@ -1,29 +1,51 @@
-# demo
+## 技术栈
 
-## Project setup
-```
-npm install
-```
+> cnode-vue project using vue2+vue-router2+vuex+flexible.js+fastclick.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 效果预览
 
-### Compiles and minifies for production
-```
-npm run build
-```
+![](./src/jdfw.gif)
 
-### Run your tests
-```
-npm run test
-```
+## 开发过程
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 3.30
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [x] 基本布局，包括 header,footer,sidebar
+- [x] 实现 sidebar 的弹出
+
+## 3.31
+
+- [x] 样式调整，主要做了各个浏览器的适配
+- [x] 列表页和详情页暂时完成，有待完善
+
+## 4.1
+
+- [x] 样式调整，做适配
+- [x] 发表页、消息页、个人中心页、登录页、关于页布局完成，还没上数据
+- [x] 获取数据时，增加 loading 效果
+
+## 4.2
+
+- [x] 登录功能完成、个人中心页完成 50%
+- [x] 侧边栏布局、样式调整,footer 样式调整
+- [x] 页面跳转的权限控制完成
+
+## 4.3
+
+- [x] 完善详情页，增加评论功能、点赞功能，完成大约 80%，有待继续完善
+- [x] 完成消息页，包括布局和增加获取未读消息和已读消息功能
+- [x] 完善主页面，现在可通过侧边栏导航(全部、精华、问答、工作、分享)到主页
+- [x] 侧边栏所有功能正式完成！
+
+## 4.4
+
+- [x] 制作全局 tip 提示插件，主要用在登录时给用户提示，用户体验好！该插件可配置样式
+- [x] 制作全局回到顶部插件
+- [x] 给登录用户做了 sessionStorage 存储，刷新页面用户信息不再丢失，调整与用户有关的页面的逻辑
+- [x] 主页面做了滚动加载，主页跳往详情页时保存内容和滚动条位置，从详情页返回时回到原位置和状态
+
+## 4.5
+
+- [x] 消息页、发表页正式完成，’我的‘页面完成 60%
+- [x] 头部和底部组件调整，修复 4.4 滚动加载 bug(跳往详情页未移除 scroll 事件)
+- [x] 首次将项目部署在 github 上，可直接访问[https://fengyinchao.github.io/vue-cnode](https://fengyinchao.github.io/vue-cnode)
