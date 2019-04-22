@@ -38,11 +38,11 @@ module.exports = {
         }
       }
     },
-    plugins: [
+    plugins: process.env.NODE_ENV === 'production' ? [
       new BundleAnalyzerPlugin({
         analyzerMode: 'static'
       })
-    ]
+    ] : []
   },
   devServer: {
     open: true,
